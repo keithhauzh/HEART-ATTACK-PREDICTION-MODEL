@@ -94,6 +94,7 @@ These features showed both statistical significance in EDA and high importance i
 - seaborn  
 - scikit-learn  
 - jupyter (optional, for notebook analysis)
+- gradio (demo example)
 
 ---
 
